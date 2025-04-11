@@ -2,4 +2,6 @@
 my name is test-git
 
 ---
-hello world
+```python
+print("hello world")
+```
